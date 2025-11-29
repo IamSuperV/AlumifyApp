@@ -1,2 +1,27 @@
-# AlumifyApp
-Alumify- Alumify is a modern networking platform designed to connect institutions with their alumni, enabling students to access mentorship, guidance, and real-world opportunities. The app creates a unified space where alumni can share experiences, institutions can verify connections, and students can build meaningful professional networks.
+# Alumify App
+
+A tech-inspired bridge between students and alumni.
+
+## Features
+- **Directory**: Connect with alumni and students.
+- **Live Chat**: Real-time communication.
+- **Mission Control**: Gamified problem solving with XP and badges.
+
+## Getting Started
+
+1. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+2. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Tech Stack
+- Flutter
+- Provider
+- Google Fonts (Orbitron, Inter)
+- Flutter Animate
+- Lucide Icons
